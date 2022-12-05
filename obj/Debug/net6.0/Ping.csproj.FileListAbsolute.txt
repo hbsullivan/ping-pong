@@ -1,0 +1,15 @@
+/Users/henrysullivan/Desktop/ping-pong/obj/Debug/net6.0/Ping.csproj.AssemblyReference.cache
+/Users/henrysullivan/Desktop/ping-pong/obj/Debug/net6.0/Ping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/henrysullivan/Desktop/ping-pong/obj/Debug/net6.0/Ping.AssemblyInfoInputs.cache
+/Users/henrysullivan/Desktop/ping-pong/obj/Debug/net6.0/Ping.AssemblyInfo.cs
+/Users/henrysullivan/Desktop/ping-pong/obj/Debug/net6.0/Ping.csproj.CoreCompileInputs.cache
+/Users/henrysullivan/Desktop/ping-pong/bin/Debug/net6.0/Ping
+/Users/henrysullivan/Desktop/ping-pong/bin/Debug/net6.0/Ping.deps.json
+/Users/henrysullivan/Desktop/ping-pong/bin/Debug/net6.0/Ping.runtimeconfig.json
+/Users/henrysullivan/Desktop/ping-pong/bin/Debug/net6.0/Ping.dll
+/Users/henrysullivan/Desktop/ping-pong/bin/Debug/net6.0/Ping.pdb
+/Users/henrysullivan/Desktop/ping-pong/obj/Debug/net6.0/Ping.dll
+/Users/henrysullivan/Desktop/ping-pong/obj/Debug/net6.0/refint/Ping.dll
+/Users/henrysullivan/Desktop/ping-pong/obj/Debug/net6.0/Ping.pdb
+/Users/henrysullivan/Desktop/ping-pong/obj/Debug/net6.0/Ping.genruntimeconfig.cache
+/Users/henrysullivan/Desktop/ping-pong/obj/Debug/net6.0/ref/Ping.dll
